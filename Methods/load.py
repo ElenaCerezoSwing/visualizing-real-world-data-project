@@ -1,4 +1,4 @@
-  import pandas as pd
+import pandas as pd
 
 def import_data(root):
   return pd.read_csv(root)

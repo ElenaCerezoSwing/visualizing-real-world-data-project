@@ -1,3 +1,4 @@
+import pandas
 
 def drop_na_values(df, col):
     return df.drop(df[(df[col].isnull())].index)
