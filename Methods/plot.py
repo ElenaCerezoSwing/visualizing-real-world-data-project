@@ -12,6 +12,7 @@ def get_violinplot(df, col):
 
 def get_bar(df, col):
   df[col].value_counts().plot.bar()
+ 
 
 def get_horizontal_bar(df, col):
   df[col].value_counts().plot.barh()
