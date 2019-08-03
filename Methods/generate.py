@@ -1,4 +1,4 @@
 import pandas as pd
 
-def export_data(root):
-  return pd.to_csv(root)
+def export_data(df, root):
+  return df.to_csv(root)
