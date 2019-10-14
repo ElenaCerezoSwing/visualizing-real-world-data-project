@@ -9,7 +9,7 @@ Está compuesto por un pipeline de ETL, cuyos archivos relativos a métodos se e
 
 Los datos provienen de los datos trabajados en el proyecto del módulo 1 sobre avistamiento de UFO's en países de habla inglesa entre los años 1918 y 2016. Obtenidos de Kagel
 
-La presentación de ese primer proyecto se encuentra en este [enlace](https://www.canva.com/design/DADdTPY3Ehs/share/preview?token=wn8liZQFMubPi3VqvNvtCw&role=EDITOR&utm_content=DADdTPY3Ehs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+La presentación de ese primer proyecto se encuentra en este [enlace](https://www.canva.com/design/DADdTPY3Ehs/FYsbB-bZmLLaR_wj-_UtRg/view?utm_content=DADdTPY3Ehs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 La presentación de este segundo proyecto está por llegar, porque... [THE BEST IS YET TO COME](https://www.youtube.com/watch?v=KzImeenBYDE)
 ### MODO DE USO:
